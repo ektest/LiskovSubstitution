@@ -1,1 +1,3 @@
 # LiskovSubstitution
+
+Liskov Substitution principle
